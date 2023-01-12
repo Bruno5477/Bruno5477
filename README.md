@@ -4,11 +4,6 @@
 - 🔭 Eu estou buscando oportunidades como analista ou cientista de Dados.
 - 🐱‍💻 Estudando Python, SQL e Machine Learning
 
-<div align="center">
-  <a href="https://github.com/Bruno5477">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno5477&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno5477&layout=compact&langs_count=7&theme=darcula"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DEVI-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
