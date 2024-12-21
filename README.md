@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Bacharel em Estatística pela UFF<br>🔭 Tenho conhecimentos em Análise de dados e análises estatística com R, além de sólidos conhecimentos em Excel.<br>🌱 Estou estudando SQL e Python.<br>🤝 Estou em busca de uma oportunidade de entrar no mercado.<br>
+⚡Bacharel em Estatística pela UFF e atualemte cursando o 2° Período em Engenharia de Software.<br>🔭 Tenho conhecimentos em Análise de dados e análises estatística com R, além de sólidos conhecimentos em Excel.<br>🌱 Estou estudando SQL e Python.<br>🤝 Estou em busca de uma oportunidade de entrar no mercado.<br>
 
 
 ## 🌐 Socials:
